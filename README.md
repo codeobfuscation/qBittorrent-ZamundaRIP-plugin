@@ -16,7 +16,8 @@
    *(Ако не виждате таба, отидете в меню Изглед -> Търсачка)*.
 2. Кликнете върху бутона **"Търсещи плъгини..." (Search plugins)** в долния десен ъгъл.
 3. Изберете **"Инсталиране на нов" (Install new one)** -> **"Уеб връзка" (Web link)**.
-4. Поставете следния URL адрес:
+4. Поставете един от двата URL адреса:
+   `https://zamunda.rip/zamundarip.py`
    `https://raw.githubusercontent.com/codeobfuscation/qBittorrent-ZamundaRIP-plugin/main/zamundarip.py`
 
 ### Метод 2: Локално (Local file)
